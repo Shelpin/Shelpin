@@ -4,7 +4,7 @@
 
 My name is [Alex Casas](https://www.linkedin.com/in/alexblockchain/), and I have been working in this baby for two years, since I left the corporate world to create Shelpin, in my mind more than 15 years ago as a personal duty. 
 
-I am not a dev, I am an “ex-infiltrated bizman" , and now that a little but strong community is built, and that I have been learning, knowing people , exploring different models and technologies,  it is time for the buidling of the platform, and because of the project and personal philosophy, this awesome Blockternship initiative is the perfect place to start making wellfare recirculate.
+I am not a dev, I am an “ex-infiltrated bizman" , and now that a little but strong community is built, and that I have been learning, knowing people , exploring different models and technologies,  it is time for the buidling of the platform.
 
 # Overview
 
@@ -20,9 +20,9 @@ I am not a dev, I am an “ex-infiltrated bizman" , and now that a little but st
 
 * That is only possible if every slice of the process is completely traceable, accountable, auditable, transparent, measurable…sound familiar??? 
 
-The current issue proposes to develop the MVP of the platform that will inject Giveth dac´s funds from the brands we are going to involve though the starting of the “Re-evolution of customers movement” *. 
+The current issue proposes to develop the MVP of the platform that will inject funds to social causes from the brands we are going to involve though the starting of the “Re-evolution of customers movement” *. 
 
-This issue aims at becoming a “funds plug-in” software for Giveth DAC´s , that also can act as an incentive to onboard changemakers to Giveth as an alternative and free source of funds for them, is offered.
+This issue aims at becoming a “funds plug-in” for different proof of donations platforms , that also can act as an incentive to onboard changemakers to those platforms as an alternative and free source of funds for them, is offered.
 
 You can see here a little home-made video. 
 
@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=au450HWSE-I
 
 # Philosophy
 
-I am an an early member of the Giveth community precisely because of philosophy. Shelpin aims not only to be open source software but an open source business model for social good. 
+Shelpin aims not only to be open source software but an open source business model for social good. 
 
 Why you can make Pp2 reviewing to some piece of software and not to a financial plan, or a product development, CRM strategy, or support procedures, based on the voluntary and fairly rewarded contributions of people that shares the mission? 
 
@@ -60,6 +60,8 @@ Clearly this is a Giveth flavoured project but production outputs will be immedi
 
 After the completion of the MVP, a very special donation crowdfunding will happen ;) to complete the whole platform and fund the global expansion of Shelpin DAO to become a global welfare recirculation machine to balance our society.
 
+Shelpin itself is an experiment but I can´t help seeing the result. Do you wanna play together??? ;)))  
+
 # Contact and social stuff 
 
 www.shelpin.com
@@ -72,11 +74,8 @@ Slack: @alexshelpin
 Linkedin: https://www.linkedin.com/in/alexblockchain/
 Medium: https://medium.com/@alex_45530
 
-Completely available to answer any questions and give every information you might need or want. There is a lot to tell but I wanted to keep this short. 
 
-Currently working on the third iteration of the website, definitive HopePaper, Governance and transparency model, Re-evolution of customers action, and the implementation of Shelpin DAO as open social impact business model amongst other crazy ideas. 
-
-Shelpin itself is an experiment but I can´t help seeing the result. Do you wanna play together??? ;)))   
+ 
 
 
 
