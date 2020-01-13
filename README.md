@@ -79,15 +79,7 @@ Currently working on the third iteration of the website, definitive HopePaper, G
 Shelpin itself is an experiment but I can´t help seeing the result. Do you wanna play together??? ;)))   
 
 
-# NOTE
 
-For the sake of transparency and fair play regarding the current application and its requirements compliance regarding point two “ Be built on Ethereum blockchain” 
-
-Even if the current chosen language to develop Shelpin platform is Solidity, it is very likely that in a production scenario cost of txs obliges to migrate to RSK drivechain to ensure economic viability of the model even though still could be run on the Ethereum public network  
-
-
-* Re-evolution of customers hint: 
-Do you imagine thousands of people massively calling their favourite brands asking for funds for their preferred NGO´s ,  through a very nice and funny automated web-callcenter platform ;) ?
 
 
 
