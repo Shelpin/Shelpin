@@ -1,1 +1,3 @@
 remote_theme: mkdocs-material
+
+theme: jekyll-theme-cayman
